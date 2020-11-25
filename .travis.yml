@@ -1,8 +1,5 @@
-language: go
 arch: ppc64le
 os: linux
-go:
-- 1.6
 
 before_script:
   - sudo apt update -y
